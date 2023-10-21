@@ -3,7 +3,7 @@ package Uke34;
 public class Oppgave2 {
 
     public static void main(String[] args){
-        int[] a={1,4,6,75,4,24,45,63};
+        int[] a={5,4,6,75,4,24,45,63};
         System.out.println(min(a));
     }
     public static int min(int[] a) // a er en heltallstabell
